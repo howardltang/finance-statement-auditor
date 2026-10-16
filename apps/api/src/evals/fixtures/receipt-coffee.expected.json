@@ -1,0 +1,7 @@
+{
+  "documentType": "image_receipt",
+  "statementTotalCents": 925,
+  "transactions": [
+    { "date": "2026-03-22", "merchant": "Brewpoint Coffee", "amountCents": 925, "direction": "debit", "category": "food" }
+  ]
+}

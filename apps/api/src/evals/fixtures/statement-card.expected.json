@@ -1,0 +1,11 @@
+{
+  "documentType": "xlsx_export",
+  "statementTotalCents": null,
+  "transactions": [
+    { "date": "2026-03-01", "merchant": "Amazon.com", "amountCents": 4567, "direction": "debit", "category": "shopping" },
+    { "date": "2026-03-03", "merchant": "Uber", "amountCents": 1820, "direction": "debit", "category": "transport" },
+    { "date": "2026-03-06", "merchant": "Interest Payment", "amountCents": 412, "direction": "credit", "category": "other" },
+    { "date": "2026-03-10", "merchant": "Trader Joe's", "amountCents": 6230, "direction": "debit", "category": "food" },
+    { "date": "2026-03-14", "merchant": "Gym Membership", "amountCents": 3500, "direction": "debit", "category": "subscriptions" }
+  ]
+}

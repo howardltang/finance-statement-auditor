@@ -1,0 +1,7 @@
+{
+  "documentType": "pdf_statement",
+  "statementTotalCents": 3186,
+  "transactions": [
+    { "date": "2026-02-14", "merchant": "Greenleaf Grocery", "amountCents": 3186, "direction": "debit", "category": "food" }
+  ]
+}

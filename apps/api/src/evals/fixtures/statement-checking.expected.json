@@ -1,0 +1,12 @@
+{
+  "documentType": "csv_export",
+  "statementTotalCents": null,
+  "transactions": [
+    { "date": "2026-02-01", "merchant": "Kroger", "amountCents": 5214, "direction": "debit", "category": "food" },
+    { "date": "2026-02-03", "merchant": "Shell Gas Station", "amountCents": 3890, "direction": "debit", "category": "transport" },
+    { "date": "2026-02-05", "merchant": "Payroll Deposit", "amountCents": 240000, "direction": "credit", "category": "income" },
+    { "date": "2026-02-08", "merchant": "Spotify Premium", "amountCents": 1099, "direction": "debit", "category": "subscriptions" },
+    { "date": "2026-02-12", "merchant": "AMC Theatres", "amountCents": 2450, "direction": "debit", "category": "entertainment" },
+    { "date": "2026-02-15", "merchant": "Electric Company", "amountCents": 8820, "direction": "debit", "category": "bills" }
+  ]
+}

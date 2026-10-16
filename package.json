@@ -1,0 +1,22 @@
+{
+  "name": "pfsa",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev:api": "pnpm --filter @pfsa/api dev",
+    "dev:web": "pnpm --filter @pfsa/web dev",
+    "dev:worker": "pnpm --filter @pfsa/api dev:worker",
+    "build": "pnpm -r build",
+    "test": "pnpm -r test",
+    "typecheck": "pnpm -r typecheck",
+    "db:generate": "pnpm --filter @pfsa/api db:generate",
+    "db:migrate": "pnpm --filter @pfsa/api db:migrate",
+    "db:studio": "pnpm --filter @pfsa/api db:studio"
+  },
+  "devDependencies": {
+    "sst": "^4.17.1",
+    "typescript": "^5.6.3"
+  }
+}
